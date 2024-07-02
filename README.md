@@ -1,4 +1,4 @@
-# Smooth Php CQRS Event Sourcing Framework  
+# A fork of Smooth Php CQRS Event Sourcing Framework v2.0.0
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
@@ -14,35 +14,6 @@ Via Composer
 ``` bash
 $ composer require smoothphp/crqs-es-framework
 ```
-
-## Usage
-
-``` 
-```
-
-## Change log
-
-Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
-
-## Testing
-
-``` bash
-$ composer test
-```
-
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
-## Security
-
-If you discover any security related issues, please email simon.bennett@smoothphp.com instead of using the issue tracker.
-
-## Credits
-
-- [Simon Bennett][link-author]
-- [Jrdn Hannah](https://github.com/jrdnhannah)
-- [All Contributors][link-contributors]
 
 ## License
 
