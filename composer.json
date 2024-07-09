@@ -3,9 +3,9 @@
   "description": "Smooth Php CRQS Event Sourcing Framework",
   "license": "MIT",
   "require": {
-    "php": ">=5.5.0",
+    "php": "^7.2.5|^8.0",
     "ramsey/uuid": "~3.0",
-    "nesbot/carbon": "~1.19"
+    "nesbot/carbon": "~2.31"
   },
   "replace": {
     "smoothphp/commandbus": "self.version",
@@ -16,7 +16,6 @@
     "smoothphp/eventsourcing": "self.version",
     "smoothphp/serialization": "self.version",
     "smoothphp/eventstore": "self.version"
-
   },
   "require-dev": {
     "phpunit/phpunit": "4.*"
